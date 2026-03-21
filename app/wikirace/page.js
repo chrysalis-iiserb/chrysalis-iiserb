@@ -6,10 +6,3 @@ export default function WikiRace() {
     />
   );
 }
-```
-
----
-
-Then visit:
-```
-https://chrysalis-iiserb.vercel.app/wikirace
