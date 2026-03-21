@@ -1,8 +1,12 @@
 export default function WikiRace() {
   return (
-    <iframe
-      src="/wiki_racing.html"
-      style={{ width: '100%', height: '100vh', border: 'none' }}
-    />
+    <div style={{ width: '100%', height: '100vh' }}>
+      <iframe
+        src="/wiki_racing.html"
+        width="100%"
+        height="100%"
+        frameBorder="0"
+      />
+    </div>
   );
 }
