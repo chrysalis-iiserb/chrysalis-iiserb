@@ -6,11 +6,4 @@ export default function WikiRace() {
     />
   );
 }
-```
-5. Click **"Commit changes"**
 
----
-
-### Step 4: Wait 1–2 minutes, then visit:
-```
-https://chrysalis-iiserb.vercel.app/wikirace
