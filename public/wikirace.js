@@ -1,7 +1,7 @@
 export default function WikiRace() {
   return (
     <iframe
-      src="/wikirace_3_.html"
+      src="/wikirace(3).html"
       style={{ width: '100%', height: '100vh', border: 'none' }}
     />
   );
